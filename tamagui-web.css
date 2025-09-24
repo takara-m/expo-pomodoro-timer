@@ -1,0 +1,19 @@
+/* Tamagui CSS Reset and Base Styles */
+html,
+body,
+#__next,
+#__next > div {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Tamagui CSS Variables will be injected here */

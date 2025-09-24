@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__context7__get-library-docs",
+      "Bash(git commit:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run lint:*)",
+      "Bash(npm run format:check:*)",
+      "Bash(git add:*)",
+      "Bash(npx husky init:*)",
+      "mcp__context7__resolve-library-id",
+      "Bash(npx expo install:*)",
+      "Bash(npm run format:*)",
+      "Bash(npx expo start:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
